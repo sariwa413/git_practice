@@ -1,2 +1,2 @@
 # git_practice
-This is my demo
+This is a README file
